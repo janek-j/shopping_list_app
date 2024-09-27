@@ -1,6 +1,5 @@
 package src;
 
-import java.lang.reflect.Array;
 import java.util.*;
 
 public class ShoppingList {
